@@ -118,5 +118,5 @@ filterByLength(["kia", "tesla", "bmw", "mercedes"]); // ['tesla','mercedes']
 ## Literature
 #### Available in russian
 
-* [Variable scope, closure]()
-* [PythonTutor]()
+* [Variable scope, closure](https://javascript.info/closure)
+* [PythonTutor](https://pythontutor.com/javascript.html#mode=edit)
