@@ -4,11 +4,9 @@
 // that product.
 
 function prodOfPair(ints){
-    let prod;
     let result = [];
     for (let i=0; i<ints.length-1; i++){
-        prod = ints[i] * ints[i+1]
-        result.push(prod);
+        result.push(ints[i] * ints[i+1]);
     }
     return Math.max(...result);
 }
